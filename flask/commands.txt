@@ -1,0 +1,2 @@
+bokeh serve --allow-websocket-origin=127.0.0.1:5000 slider.py
+python app.py
